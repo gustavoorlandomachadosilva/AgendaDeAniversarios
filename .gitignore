@@ -1,0 +1,17 @@
+# Compilados
+*.exe
+*.dll
+*.o
+*.ppu
+*.compiled
+*.dbg
+
+# Banco local
+agenda.db
+
+# Pastas de build
+lib/
+backup/
+
+# Arquivos temporários do Lazarus
+*.bak
