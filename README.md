@@ -6,6 +6,7 @@ O sistema permite cadastrar, editar, excluir e visualizar aniversários, além d
 ## Tela Principal
 <div align="center">
   <img src="Screenshot.PNG" width="500px">
+  <img src="Aniversariante.png" width="500px">
 </div>
 
 # 🚀 Como Executar
