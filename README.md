@@ -2,6 +2,12 @@
 Aplicação desktop desenvolvida em Object Pascal utilizando Lazarus + SQLite para gerenciamento de aniversários.
 O sistema permite cadastrar, editar, excluir e visualizar aniversários, além de destacar automaticamente o próximo aniversário da lista e exibir notificações de aniversariantes do dia.
 
+# 📸 Preview
+## Tela Principal
+<div align="center">
+  <img src="Screenshot.png" width="500px">
+</div>
+
 # 🚀 Como Executar
 ## Pré-requisitos
 - Windows
