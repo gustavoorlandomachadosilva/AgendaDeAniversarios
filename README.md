@@ -5,7 +5,7 @@ O sistema permite cadastrar, editar, excluir e visualizar aniversários, além d
 # 📸 Preview
 ## Tela Principal
 <div align="center">
-  <img src="Screenshot.png" width="500px">
+  <img src="Screenshot.PNG" width="500px">
 </div>
 
 # 🚀 Como Executar
