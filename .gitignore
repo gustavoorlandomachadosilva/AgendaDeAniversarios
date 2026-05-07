@@ -1,17 +1,26 @@
-# Compilados
+# Executáveis
 *.exe
-*.dll
-*.o
-*.ppu
-*.compiled
-*.dbg
 
-# Banco local
+# Permitir instaladores
+!Instalador/*.exe
+
+# DLLs
+*.dll
+
+# Banco de dados
 agenda.db
 
-# Pastas de build
+# Arquivos compilados Lazarus
+*.ppu
+*.o
+*.or
+*.compiled
+*.dbg
+*.bak
+
+# Pastas de compilação
 lib/
 backup/
 
-# Arquivos temporários do Lazarus
-*.bak
+# Configurações temporárias
+*.local
